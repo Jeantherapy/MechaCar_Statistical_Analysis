@@ -32,7 +32,7 @@ The summary statistics on the suspension coils provide insights into whether the
 
 Please refer to the screenshot below for the `total_summary` dataframe:
 
-![Total Summary](path/to/total_summary.png)
+![Total Summary](https://github.com/Jeantherapy/MechaCar_Statistical_Analysis/blob/main/Images/Total%20Summary.png)
 
 From the `total_summary` dataframe, we can observe the mean, median, variance, and standard deviation of the suspension coils' PSI values across all manufacturing lots. 
 
