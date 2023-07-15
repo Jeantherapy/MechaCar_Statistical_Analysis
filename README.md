@@ -74,7 +74,7 @@ The t-test conducted on the PSI values across all manufacturing lots showed a p-
 **T-Tests for Each Manufacturing Lot:**
 
 * Manufacturing Lot 1:
-![T-Test for Lot 1](path/to/t_test_lot1.png)
+![T-Test for Lot 1](https://github.com/Jeantherapy/MechaCar_Statistical_Analysis/blob/main/Images/Lot%201.png)
 
 * Manufacturing Lot 2:
 ![T-Test for Lot 2](path/to/t_test_lot2.png)
