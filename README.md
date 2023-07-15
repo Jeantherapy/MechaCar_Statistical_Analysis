@@ -67,7 +67,7 @@ Please refer to the screenshots below for the t-test results:
 
 **T-Test for All Manufacturing Lots:**
 
-![T-Test for All Lots](path/to/t_test_all_lots.png)
+![T-Test for All Lots](https://github.com/Jeantherapy/MechaCar_Statistical_Analysis/blob/main/Images/All%20Lots.png)
 
 The t-test conducted on the PSI values across all manufacturing lots showed a p-value of 0.06. Since the p-value is above the significance level (e.g., 0.05), we fail to reject the null hypothesis. this suggests a marginally significant difference between the overall PSI values and the population mean of 1,500 PSI.
 
