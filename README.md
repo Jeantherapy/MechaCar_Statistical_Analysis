@@ -40,7 +40,7 @@ From the `total_summary` dataframe, we can observe the mean, median, variance, a
 
 Please refer to the screenshot below for the `lot_summary` dataframe:
 
-![Lot Summary](path/to/lot_summary.png)
+![Lot Summary](https://github.com/Jeantherapy/MechaCar_Statistical_Analysis/blob/main/Images/Lot%20Summary.png)
 
 The `lot_summary` dataframe provides the same summary statistics but grouped by each manufacturing lot. 
 
