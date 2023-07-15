@@ -6,7 +6,7 @@ The linear regression analysis was performed to predict the MPG (miles per gallo
 
 Please refer to the screenshot below for the summary output from the linear regression model:
 
-[![Linear Regression Summary Output](path/to/screenshot.png)](path/to/screenshot.png)
+[![Linear Regression Summary Output](https://github.com/Jeantherapy/MechaCar_Statistical_Analysis/blob/main/Images/Summary%20Model.png)
 
 ### Non-Random Amount of Variance:
 
